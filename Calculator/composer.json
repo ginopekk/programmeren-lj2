@@ -1,0 +1,15 @@
+{
+    "name": "ginopekkan/calculator",
+    "autoload": {
+        "psr-4": {
+            "Ginopekkan\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ginopekk",
+            "email": "9028733@student.zadkine.nl"
+        }
+    ],
+    "require": {}
+}
